@@ -1,0 +1,6 @@
+# Custom lint ignore files
+**/lang/*.js
+**/src/*.js
+chart.js
+widget-scripts.js
+ekit-widget-builder-editor.js

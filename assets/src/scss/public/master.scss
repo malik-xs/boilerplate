@@ -1,0 +1,22 @@
+ /*
+Theme Name: Boilerplate
+Theme URI: https://themeforest.net/user/xpeedstudio/portfolio
+Author: Xpeedstudio
+Author URI: https://xpeedstudio.com/
+Description: Boilerplate - Modern Event WordPress Theme..
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: boilerplate
+Tags: theme-options, post-formats, featured-images
+*/
+
+@import "./_icon";
+
+@import "./_bootstrap_grid";
+
+@import "./varibale";
+
+@import "./_mixin";
+
+@import "./style";

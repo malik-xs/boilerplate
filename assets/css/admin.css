@@ -1,0 +1,14 @@
+.dms-brz-dismiss {
+  display: none;
+}
+#dms-extensions-list-wrapper .toggle-not-compat-ext-btn-wrapper,
+#dms-ext-brizy,
+.dms-brz-dismiss {
+  display: none;
+}
+.dms-extensions-list-item {
+  display: none !important;
+}
+#dms-ext-backups {
+  display: block !important;
+}

@@ -1,0 +1,21 @@
+
+
+/*============================
+//  Shortcode: Backtotop
+============================== */
+
+.BackTo {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	background: linear-gradient(135deg, $secondary 0%, $primary 100%);
+	color: $white;
+	border-radius: 5px;
+	text-align: center;
+	// display: none;
+	&:hover {
+		color: $white;
+	}
+}
+
+

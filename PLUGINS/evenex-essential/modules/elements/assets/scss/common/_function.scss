@@ -1,0 +1,207 @@
+// body font size
+@import '../common/_variable.scss';
+
+@function legacy-direction($value) {
+	@if is-direction($value) == false {
+	  @error "Cannot convert `#{$value}` to legacy syntax because it doesn't seem to be a direction.";
+	}
+  
+	$conversion-map: (
+	  to top          : bottom,
+	  to top right    : bottom left,
+	  to right top    : left bottom,
+	  to right        : left,
+	  to bottom right : top left,
+	  to right bottom : left top,
+	  to bottom       : top,
+	  to bottom left  : top right,
+	  to left bottom  : right top,
+	  to left         : right,
+	  to left top     : right bottom,
+	  to top left     : bottom right
+	);
+  
+	@if map-has-key($conversion-map, $value) {
+	  @return map-get($conversion-map, $value);
+	}
+  
+	@return 90deg - $value;
+  }
+
+  @mixin border-radius($radius) {
+    border-radius: $radius;
+}
+
+//usage: @include shift([property],[duration],[easing]);
+@mixin transition($property: all, $duration: .4s, $ease: ease) {
+    transition: $property $duration $ease;
+}
+
+@mixin background-content($repeat: no-repeat, $size: cover, $position: center center) {
+    background-repeat: $repeat;
+    background-size: $size;
+    background-position: $position;
+}
+
+@mixin width($width) {
+    width: $width;
+}
+
+@mixin equal-size($width, $height: $width) {
+    width: $width;
+    height: $height;
+}
+
+@mixin equal-size-lineHeight($width, $height: $width, $Lheight: $width) {
+    width: $width;
+    height: $height;
+    line-height: $Lheight;
+}
+
+@mixin height-lineheight($height: $height, $Lheight: $height) {
+    height: $height;
+    line-height: $Lheight;
+}
+
+@mixin flex-position($display, $contet, $items) {
+    display: $display;
+    justify-content: $contet;
+    align-items: $items;
+}
+
+@mixin position($position) {
+    position: $position;
+}
+
+@mixin center-position($top: $top, $left: $top) {
+    top: $top;
+    left: $top;
+    transform: translate(-#{$top}, -#{$top});
+    position: absolute;
+}
+
+@mixin border($direction, $width, $style, $color) {
+    border-#{$direction}: $width $style $color;
+}
+
+@mixin borders($width, $style, $color) {
+    border: $width $style $color;
+}
+
+@mixin linear-gradient($direction, $color-stops...) {
+    background: nth(nth($color-stops, 1), 1);
+    background: -webkit-linear-gradient(legacy-direction($direction), $color-stops);
+    background: linear-gradient($direction, $color-stops);
+}
+
+@mixin font($size: 1em, $height: 1em, $weight: normal) {
+    font-size: $size;
+    line-height: $height;
+    font-weight: $weight;
+}
+
+@mixin inputPlaceholder() {
+    $selector: '';
+    $prefixes: (moz: "::-moz",
+        webkit: "::-webkit",
+        ie: ":-ms"
+        );
+
+    @each $prop,
+    $value in $prefixes {
+        @if $prop !="moz" {
+            $selector: #{$value}-input-placeholder;
+        }
+
+        @else {
+            $selector: #{$value}-placeholder;
+        }
+
+        @if & {
+            &#{$selector} {
+                @content;
+                opacity: 1;
+            }
+        }
+
+        @else {
+            #{$selector} {
+                @content;
+                opacity: 1;
+            }
+        }
+    }
+
+    &::placeholder {
+        @content;
+        opacity: 1;
+    }
+}
+
+
+
+
+/* responsive mixins */
+
+$huge-device: 1600px;
+$big-device: 1300px;
+$medium-device: 1199px;
+$desktop-width: 1024px;
+$potrait-tablet: 991px;
+$tablet: 767px;
+$small-device: 480px;
+$tiny-device: 320px;
+
+@mixin huge-device {
+    @media (min-width: #{$huge-device}) {
+        @content;
+    }
+}
+
+@mixin big-device {
+    @media (min-width: #{$big-device}) {
+        @content;
+    }
+}
+
+@mixin medium-desktop {
+    @media (min-width: #{$potrait-tablet + 1px}) and (max-width: #{$medium-device}) {
+        @content;
+    }
+}
+
+@mixin potrait-tablet {
+    @media (max-width: #{$potrait-tablet}) {
+        @content;
+    }
+}
+
+@mixin potrait-tablet-upper {
+    @media (min-width: #{$potrait-tablet + 1px}) {
+        @content;
+    }
+}
+
+@mixin tablet {
+    @media (max-width: #{$tablet}) {
+        @content;
+    }
+}
+
+@mixin tablet-upper {
+    @media (max-width: #{$tablet + 1px}) {
+        @content;
+    }
+}
+
+@mixin small-device {
+    @media (max-width: #{$small-device}) {
+        @content;
+    }
+}
+
+@mixin tiny-device {
+    @media (max-width: #{$tiny-device}) {
+        @content;
+    }
+}

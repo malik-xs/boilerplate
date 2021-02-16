@@ -1,0 +1,1090 @@
+# Copyright (C) 2020 Boilerplate Essential
+# This file is distributed under the same license as the Boilerplate Essential package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Boilerplate Essential\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:11, plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:14
+msgid "Boilerplate recent event"
+msgstr ""
+
+#: plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:72
+msgid "No post avainable"
+msgstr ""
+
+#: plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:93
+msgid "Latest Updates"
+msgstr ""
+
+#: plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:102
+msgid "Title:"
+msgstr ""
+
+#: plugins/boilerplate-essential/includes/widgets/recent-event/widget-class.php:106
+msgid "Number of posts:"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:26
+msgid "Boilerplate Gallery"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:44
+msgid "Gallery Content"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:52
+msgid "Filter Label"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:62
+msgid "Add Images"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:87, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:319
+msgid "Layout"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:95
+msgid "Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:99, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:61
+msgid "Grid"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:100
+msgid "Masonry"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:109
+msgid "Columns"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:128
+msgid "Image Aspect Ratio"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:157
+msgid "Settings"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:164
+msgid "\"All\" Filter Label"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:166
+msgid "All"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:173
+msgid "Content Alignment"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:177, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2060, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2093, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2566, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:266
+msgid "Left"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:181, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:207, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2064, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2097, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:270
+msgid "Center"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:185, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2072, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2101, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:274
+msgid "Right"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:199, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:262
+msgid "Alignment"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:203, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2191, plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:28, plugins/boilerplate-essential/modules/sticky-content/module.php:41
+msgid "Top"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:211, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2298, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2536, plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:29, plugins/boilerplate-essential/modules/sticky-content/module.php:42
+msgid "Bottom"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:224, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:214
+msgid "Show Caption"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:226, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:238, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:251, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:263, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:960, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1854, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2116, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2359, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:89, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:124, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:173, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:188, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:204, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:216, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:229, plugins/boilerplate-essential/modules/parallax/section-controls.php:25, plugins/boilerplate-essential/modules/parallax/section-controls.php:52
+msgid "Show"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:227, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:239, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:252, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:264, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:961, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1855, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2117, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2360, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:90, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:125, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:174, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:189, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:205, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:217, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:230, plugins/boilerplate-essential/modules/parallax/section-controls.php:26, plugins/boilerplate-essential/modules/parallax/section-controls.php:53
+msgid "Hide"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:236
+msgid "Show Description"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:249
+msgid "Show Filter Label"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:261
+msgid "Show Lightbox"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:273
+msgid "Lightbox Icon"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:289
+msgid "Show Image Slideshow"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:291
+msgid "True"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:292
+msgid "Flase"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:304
+msgid "Ordering"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:308, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2026
+msgid "Default"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:309
+msgid "Random"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:326
+msgid "Columns Gap"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:353
+msgid "Rows Gap"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:399
+msgid "Content Padding"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:416
+msgid "Thumbnails"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:424, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1114, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1304, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1493, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1650, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2672, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2832, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:361, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1074
+msgid "Border Radius"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:438, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:498, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:521, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1072, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1262, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1451, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1607, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1833, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1866, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2621, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:526, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:744, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1114, plugins/boilerplate-essential/modules/parallax/section-controls.php:394, plugins/boilerplate-essential/modules/parallax/widget-controls.php:136
+msgid "Normal"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:446, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:473, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1136, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1200, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1326, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1389, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1515, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1578, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2848, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:353, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1146, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1200
+msgid "Box Shadow"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:455, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:482, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1104, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1294, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1483, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1640, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2662, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2860, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:341, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1104
+msgid "Border"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:465, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:694, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1147, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1336, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1525, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1756, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1937, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:598, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:884, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1156
+msgid "Hover"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:499, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:531, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:704, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1684, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1800, plugins/boilerplate-essential/modules/parallax/section-controls.php:336
+msgid "Opacity"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:500, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:556, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:582, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:730, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:755, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:914, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1908, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1979, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1003, plugins/boilerplate-essential/modules/parallax/widget-controls.php:368
+msgid "Scale"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:501, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:609, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:782, plugins/boilerplate-essential/modules/parallax/section-controls.php:197, plugins/boilerplate-essential/modules/parallax/widget-controls.php:265
+msgid "Rotate"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:502, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:635, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:808, plugins/boilerplate-essential/modules/parallax/section-controls.php:221
+msgid "Blur"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:503, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:666, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:839
+msgid "Gray Scale"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:509
+msgid "Image Filter"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:868, plugins/boilerplate-essential/modules/parallax/widget-controls.php:31
+msgid "Tilt"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:877
+msgid "Axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:881, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:142
+msgid "Both"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:882
+msgid "X Axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:883
+msgid "Y Axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:894
+msgid "Amount"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:935
+msgid "Depth"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:958
+msgid "Show Glare"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:973
+msgid "Perspective"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:996, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2129, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2236, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2389, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2476, plugins/boilerplate-essential/modules/parallax/section-controls.php:147
+msgid "Width"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1026
+msgid "Caption"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1038, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1228, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1417, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2629, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2720, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:873, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1087
+msgid "Typography"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1046, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1236, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1425
+msgid "Margin"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1058, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1248, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1437, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2684, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2871, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:511, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:682, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1062
+msgid "Padding"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1079, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1154, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1269, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1343, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1458, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1532, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1627, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1776, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2649, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2748, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1133, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1175
+msgid "Background Color"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1091, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1166, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1281, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1355, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1470, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1544, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1121, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1163
+msgid "Text Color"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1127, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1191, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1317, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1380, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1506, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1569
+msgid "Text Shadow"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1178, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1367, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1556, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1788, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2780, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1187
+msgid "Border Color"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1216
+msgid "Description"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1405
+msgid "Label"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1594
+msgid "Link Icon"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1614, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1763, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1845, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2637, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2736, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:542, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:563, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:584, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:614, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:635, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:656, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:760, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:776, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:801, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:817, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:842, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:857, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:900, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:916, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:941, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:957, plugins/boilerplate-essential/modules/parallax/section-controls.php:133
+msgid "Color"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1662
+msgid "Icon Size"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1702
+msgid "Size"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1730
+msgid "Font Size"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1827, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1836
+msgid "Overlay"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1834
+msgid "Multiply"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1835
+msgid "Screen"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1837
+msgid "Darken"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1838
+msgid "Lighten"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1839
+msgid "Color-dodge"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1840
+msgid "Color-burn"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1841
+msgid "Difference"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1842
+msgid "Exclusion"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1843
+msgid "hue"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1844
+msgid "Saturation"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1846
+msgid "Luminosity"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1852
+msgid "Show Overlay"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1876, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:1947
+msgid "Blend Mode"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2015
+msgid "Filter"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2022
+msgid "Filter Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2027
+msgid "Style One"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2028
+msgid "Style Two"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2029
+msgid "Style Three"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2030
+msgid "Style Four"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2031
+msgid "Style Five"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2032
+msgid "Style Six"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2033
+msgid "Style Seven"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2034
+msgid "Style Eight"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2035
+msgid "Style Nine"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2036
+msgid "Style Ten"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2044
+msgid "Nav Fill"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2046
+msgid "Yes"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2047
+msgid "No"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2056
+msgid "Filter Items Alignment"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2068
+msgid "Justify"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2089
+msgid "Filter Alignment"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2114
+msgid "Show Caret"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2160, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2267, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2421, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2506
+msgid "Height"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2219, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2331, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2373, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2461, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2764, plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2817, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:324, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:991
+msgid "Background"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2357
+msgid "Show Divider"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2596
+msgid "Nav Bottom Spacing"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2712
+msgid "Active"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/gallery/gallery.php:2804
+msgid "Container Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:23
+msgid "Boilerplate Instagram Feed"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:49
+msgid "Layout Settings "
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:56
+msgid "Grid Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:60
+msgid "List"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:62
+msgid "Masonary"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:70
+msgid "Columns Grid"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:74
+msgid "1 Columns"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:75
+msgid "2 Columns"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:76
+msgid "3 Columns"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:77
+msgid "4 Columns"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:87
+msgid "Feed Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:99
+msgid "Show Post"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:115
+msgid "Display Settings "
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:122
+msgid "Profile Header"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:136
+msgid "Profile Settings"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:140
+msgid "Only Profile Image"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:141
+msgid "Only Name"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:153
+msgid "Profile Style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:157
+msgid "Circle"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:158
+msgid "Square"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:171
+msgid "Show Date"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:186
+msgid "Show Icon"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:202
+msgid "Show Comment Box"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:227
+msgid "Enable Follow Button"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:239
+msgid "Follow Button Text"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:241
+msgid "Follow On Instagram"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:242
+msgid "Follow Text"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:250
+msgid "Follow link"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:253
+msgid "Follow Link"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:292
+msgid "Container"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:300
+msgid "Container margin Bottom"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:373, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:694
+msgid "Margin Bottom"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:396, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:423, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:475
+msgid "Gutter"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:449
+msgid "Container Spacing"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:503
+msgid "Header"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:533, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:605
+msgid "Name"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:554, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:626
+msgid "Date"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:575, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:647
+msgid "Icon"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:674
+msgid "Footer"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:717
+msgid "Margin Right"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:751, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:891
+msgid "Favourite"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:792, plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:932
+msgid "Comment"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:833
+msgid "Content"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:979
+msgid "Media"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1026
+msgid "Grayscale"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/elements/instagram-feed/instagram-feed.php:1051
+msgid "Button"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:16, plugins/boilerplate-essential/modules/parallax/widget-controls.php:16
+msgid "Boilerplate Effects"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:23
+msgid "Background Image Parallax"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:33, plugins/boilerplate-essential/modules/parallax/section-controls.php:409, plugins/boilerplate-essential/modules/parallax/widget-controls.php:664
+msgid "Speed"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:49
+msgid "Multi Item Parallax"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:59, plugins/boilerplate-essential/modules/parallax/widget-controls.php:23
+msgid "Effect Type"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:63
+msgid "Css Animation"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:64
+msgid "Mouse Move"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:65
+msgid "On Scroll"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:66
+msgid "Parallax Tilt"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:73
+msgid "Item source"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:95
+msgid "Choose Image"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:105
+msgid "Choose Shape"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:109
+msgid "Shape 1"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:110
+msgid "Shape 2"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:111
+msgid "Shape 3"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:112
+msgid "Shape 4"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:113
+msgid "Shape 5"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:114
+msgid "Shape 6"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:115
+msgid "Shape 7"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:116
+msgid "Shape 8"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:117
+msgid "Shape 9"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:118
+msgid "Shape 10"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:119
+msgid "Shape 11"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:120
+msgid "Shape 12"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:121
+msgid "Shape 13"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:122
+msgid "Shape 14"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:151
+msgid "Auto"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:152
+msgid "Custom"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:161
+msgid "Custom Width"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:248
+msgid "Position X (%)"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:275
+msgid "Position Y (%)"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:303, plugins/boilerplate-essential/modules/parallax/widget-controls.php:57
+msgid "Animation"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:337
+msgid "Opacity will be (0-1), default value 1"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:353, plugins/boilerplate-essential/modules/parallax/widget-controls.php:92
+msgid "Animation speed"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:372, plugins/boilerplate-essential/modules/parallax/widget-controls.php:111
+msgid "Animation Iteration Count"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:376, plugins/boilerplate-essential/modules/parallax/widget-controls.php:116
+msgid "Infinite"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:377, plugins/boilerplate-essential/modules/parallax/widget-controls.php:117
+msgid "Unset"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:390, plugins/boilerplate-essential/modules/parallax/widget-controls.php:131
+msgid "Animation Direction"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:395, plugins/boilerplate-essential/modules/parallax/widget-controls.php:137
+msgid "Reverse"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:396, plugins/boilerplate-essential/modules/parallax/widget-controls.php:138
+msgid "Alternate"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:422, plugins/boilerplate-essential/modules/parallax/widget-controls.php:682
+msgid "Parallax style"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:426, plugins/boilerplate-essential/modules/parallax/section-controls.php:516, plugins/boilerplate-essential/modules/parallax/widget-controls.php:649, plugins/boilerplate-essential/modules/parallax/widget-controls.php:688
+msgid "X axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:427, plugins/boilerplate-essential/modules/parallax/section-controls.php:517, plugins/boilerplate-essential/modules/parallax/widget-controls.php:650, plugins/boilerplate-essential/modules/parallax/widget-controls.php:689
+msgid "Y axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:428, plugins/boilerplate-essential/modules/parallax/widget-controls.php:690
+msgid "rotate"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:429, plugins/boilerplate-essential/modules/parallax/widget-controls.php:691
+msgid "rotateX"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:430, plugins/boilerplate-essential/modules/parallax/widget-controls.php:692
+msgid "rotateY"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:431, plugins/boilerplate-essential/modules/parallax/widget-controls.php:693
+msgid "scale"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:432, plugins/boilerplate-essential/modules/parallax/widget-controls.php:694
+msgid "scaleX"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:433, plugins/boilerplate-essential/modules/parallax/widget-controls.php:695
+msgid "scaleY"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:442, plugins/boilerplate-essential/modules/parallax/widget-controls.php:704
+msgid "Parallax Transition "
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:443, plugins/boilerplate-essential/modules/parallax/widget-controls.php:705
+msgid "X, Y and Z Axis will be pixels, Rotate will be degrees (0-180), scale will be ratio"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:453, plugins/boilerplate-essential/modules/parallax/widget-controls.php:717
+msgid "Smoothness"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:454, plugins/boilerplate-essential/modules/parallax/widget-controls.php:718
+msgid "factor that slowdown the animation, the more the smoothier (default: 700)"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:467, plugins/boilerplate-essential/modules/parallax/widget-controls.php:733
+msgid "Offset Top"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:468, plugins/boilerplate-essential/modules/parallax/section-controls.php:479, plugins/boilerplate-essential/modules/parallax/widget-controls.php:736, plugins/boilerplate-essential/modules/parallax/widget-controls.php:749
+msgid "default: 0; when the element is visible"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:478, plugins/boilerplate-essential/modules/parallax/widget-controls.php:746
+msgid "Offset Bottom"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:489, plugins/boilerplate-essential/modules/parallax/widget-controls.php:613
+msgid "MaxTilt"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:499, plugins/boilerplate-essential/modules/parallax/widget-controls.php:625
+msgid "Image Scale"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:500, plugins/boilerplate-essential/modules/parallax/widget-controls.php:626
+msgid "2 = 200%, 1.5 = 150%, etc.. Default 1"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:510, plugins/boilerplate-essential/modules/parallax/widget-controls.php:641
+msgid "Disable Axis"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:511, plugins/boilerplate-essential/modules/parallax/widget-controls.php:642
+msgid "What axis should be disabled. Can be X or Y."
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:515, plugins/boilerplate-essential/modules/parallax/widget-controls.php:29, plugins/boilerplate-essential/modules/parallax/widget-controls.php:648, plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:27, plugins/boilerplate-essential/modules/sticky-content/module.php:40
+msgid "None"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:527
+msgid "Z-index"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:529
+msgid "2"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:538
+msgid "Parallax"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:553
+msgid "Section Overflow"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:557
+msgid "Visible"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/section-controls.php:558
+msgid "Hidden"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:30
+msgid "CSS3"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:32
+msgid "On scroll"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:33
+msgid "On mouse move"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:44
+msgid "CSS Animation"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:46, plugins/boilerplate-essential/modules/parallax/widget-controls.php:597
+msgid "On"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:48, plugins/boilerplate-essential/modules/parallax/widget-controls.php:598
+msgid "Off"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:169
+msgid "CSS Transform"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:182
+msgid "Translate"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:198
+msgid "Translate X"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:219
+msgid "Translate Y"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:280
+msgid "Rotate Z"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:324
+msgid "Rotate X"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:345
+msgid "Rotate Y"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:384
+msgid "Scale X"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:409
+msgid "Scale Y"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:477
+msgid "Skew"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:493
+msgid "Skew X"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:514
+msgid "Skew Y"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/parallax/widget-controls.php:594
+msgid "Disable animation in editor "
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:16
+msgid "Boilerplate Sticky"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:24, plugins/boilerplate-essential/modules/sticky-content/module.php:37
+msgid "Sticky"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:30
+msgid "Column"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:40
+msgid "Sticky Until"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:41
+msgid "Section id without starting hash, example \"section1\"."
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:55
+msgid "Sticky Offset"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:73
+msgid "Sticky Background Color"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:87, plugins/boilerplate-essential/modules/sticky-content/module.php:52
+msgid "Sticky On"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:90
+msgid "All Devices"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:91
+msgid "Desktop Only"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:92
+msgid "Desktop & Tablet"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/extend-controls.php:106
+msgid "Add \"ekit-sticky--effects\" Class Offset"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:29
+msgid "Scrolling Effect"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:58
+msgid "Desktop"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:59
+msgid "Tablet"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:60
+msgid "Mobile"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:73
+msgid "Offset"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:90
+msgid "Effects Offset"
+msgstr ""
+
+#: plugins/boilerplate-essential/modules/sticky-content/module.php:108
+msgid "Stay In Column"
+msgstr ""

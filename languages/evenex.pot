@@ -1,0 +1,2630 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Boilerplate\n"
+"POT-Creation-Date: 2021-01-17 19:55+0600\n"
+"PO-Revision-Date: 2021-01-17 19:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:22
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home Page"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment "
+msgstr ""
+
+#: comments.php:38 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:71
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:102
+msgid "Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Email"
+msgstr ""
+
+#: comments.php:104
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:78
+#: template-parts/blog/post-parts/part-author.php:15
+msgid "Website"
+msgstr ""
+
+#: comments.php:117
+msgid "Comments"
+msgstr ""
+
+#: comments.php:125
+msgid "You must be"
+msgstr ""
+
+#: comments.php:125
+msgid "logged in"
+msgstr ""
+
+#: comments.php:125
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:130
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:130
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:135
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:136
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:137
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:138
+msgid "Post Comment"
+msgstr ""
+
+#: components/editor/elementor/controls/icon.php:1058
+#: components/editor/elementor/controls/icon.php:1060
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:45
+#: components/editor/elementor/widgets/search/search.php:41
+msgid "Select Icon"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: components/editor/elementor/elementor.php:77
+msgid "Boilerplate"
+msgstr ""
+
+#: components/editor/elementor/elementor.php:115
+msgid "Boilerplate Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:17
+msgid "Boilerplate Advanced Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:43
+msgid ""
+"Invalid Data: The Template ID cannot be the same as the currently edited "
+"template. Please choose a different one."
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:81
+#: components/editor/elementor/widgets/speaker/speaker.php:90
+#: components/editor/elementor/widgets/speaker/speaker.php:97
+msgid "Tab"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:88
+#: components/editor/elementor/widgets/pricing/pricing.php:1848
+msgid "Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:92
+msgid "Horizontal"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:93
+msgid "Vertical"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:101
+msgid "Vertical Nav Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:126
+msgid "Show Caret"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:128
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:184
+msgid "Show"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:129
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:185
+msgid "Hide"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:138
+msgid "Choose Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:143
+msgid "image style 1"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:149
+msgid "image style 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:155
+msgid "image style 3"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:161
+msgid "image style 4"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:167
+msgid "image style 5"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:182
+msgid "Full Width Nav"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:197
+msgid "Nav Icon Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:201
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:324
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:354
+#: components/editor/elementor/widgets/pricing/pricing.php:460
+#: components/editor/elementor/widgets/pricing/pricing.php:498
+#: components/editor/elementor/widgets/pricing/pricing.php:726
+#: components/editor/elementor/widgets/pricing/pricing.php:1289
+#: components/editor/elementor/widgets/pricing/pricing.php:1727
+#: components/editor/elementor/widgets/pricing/pricing.php:2082
+msgid "Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:202
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:316
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:346
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1077
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1198
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1568
+#: components/editor/elementor/widgets/pricing/pricing.php:452
+#: components/editor/elementor/widgets/pricing/pricing.php:490
+#: components/editor/elementor/widgets/pricing/pricing.php:718
+#: components/editor/elementor/widgets/pricing/pricing.php:1719
+#: components/editor/elementor/widgets/pricing/pricing.php:2074
+msgid "Left"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:203
+#: components/editor/elementor/widgets/pricing/pricing.php:1424
+#: components/editor/elementor/widgets/pricing/pricing.php:1494
+msgid "Top"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:204
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1168
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1537
+#: components/editor/elementor/widgets/pricing/pricing.php:1432
+#: components/editor/elementor/widgets/pricing/pricing.php:1502
+msgid "Bottom"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:211
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:236
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:261
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:286
+#: components/editor/elementor/widgets/pricing/pricing.php:378
+msgid "Icon Spacing"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:312
+msgid "Nav Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:320
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:350
+#: components/editor/elementor/widgets/pricing/pricing.php:456
+#: components/editor/elementor/widgets/pricing/pricing.php:494
+#: components/editor/elementor/widgets/pricing/pricing.php:722
+#: components/editor/elementor/widgets/pricing/pricing.php:1723
+#: components/editor/elementor/widgets/pricing/pricing.php:2078
+msgid "Center"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:342
+msgid "Nav Item Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:369
+#: components/editor/elementor/widgets/schedule/schedule.php:99
+#: components/editor/elementor/widgets/speaker/speaker.php:191
+msgid "Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:377
+msgid "Sub Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:386
+msgid "Show Elements"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:397
+msgid "Keep this tab open? "
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:400
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:562
+#: components/editor/elementor/widgets/pricing/pricing.php:102
+#: components/editor/elementor/widgets/pricing/pricing.php:337
+#: devmonsta/options/customizer.php:65 devmonsta/options/customizer.php:83
+#: devmonsta/options/customizer.php:112 devmonsta/options/customizer.php:159
+#: devmonsta/options/customizer.php:174 devmonsta/options/customizer.php:188
+#: devmonsta/options/customizer.php:261 devmonsta/options/customizer.php:276
+#: devmonsta/options/customizer.php:334 devmonsta/options/customizer.php:349
+#: devmonsta/options/customizer.php:407 devmonsta/options/customizer.php:422
+#: devmonsta/options/customizer.php:466 devmonsta/options/customizer.php:481
+#: devmonsta/options/customizer.php:753 devmonsta/options/customizer.php:768
+#: devmonsta/options/customizer.php:806 devmonsta/options/customizer.php:963
+#: devmonsta/options/posts/page.php:30 devmonsta/options/posts/page.php:45
+msgid "Yes"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:401
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:563
+#: components/editor/elementor/widgets/pricing/pricing.php:103
+#: components/editor/elementor/widgets/pricing/pricing.php:338
+#: devmonsta/options/customizer.php:62 devmonsta/options/customizer.php:80
+#: devmonsta/options/customizer.php:109 devmonsta/options/customizer.php:156
+#: devmonsta/options/customizer.php:171 devmonsta/options/customizer.php:185
+#: devmonsta/options/customizer.php:258 devmonsta/options/customizer.php:273
+#: devmonsta/options/customizer.php:331 devmonsta/options/customizer.php:346
+#: devmonsta/options/customizer.php:404 devmonsta/options/customizer.php:419
+#: devmonsta/options/customizer.php:463 devmonsta/options/customizer.php:478
+#: devmonsta/options/customizer.php:750 devmonsta/options/customizer.php:765
+#: devmonsta/options/customizer.php:803 devmonsta/options/customizer.php:960
+#: devmonsta/options/posts/page.php:27 devmonsta/options/posts/page.php:42
+msgid "No"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:407
+msgid "Icon Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:412
+#: components/editor/elementor/widgets/pricing/pricing.php:78
+#: components/editor/elementor/widgets/pricing/pricing.php:591
+#: components/editor/elementor/widgets/pricing/pricing.php:818
+#: components/editor/elementor/widgets/pricing/pricing.php:1601
+#: components/editor/elementor/widgets/pricing/pricing.php:1754
+#: components/editor/elementor/widgets/pricing/pricing.php:2185
+msgid "None"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:416
+#: components/editor/elementor/widgets/pricing/pricing.php:82
+#: components/editor/elementor/widgets/pricing/pricing.php:113
+#: components/editor/elementor/widgets/pricing/pricing.php:223
+#: components/editor/elementor/widgets/pricing/pricing.php:345
+#: components/editor/elementor/widgets/pricing/pricing.php:1983
+msgid "Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:420
+#: components/editor/elementor/widgets/pricing/pricing.php:86
+msgid "Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:429
+msgid "Title Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:446
+#: components/editor/elementor/widgets/pricing/pricing.php:130
+msgid "Choose Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:460
+msgid "Title Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:471
+msgid "Tab content"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:477
+msgid "Networking"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:480
+msgid "California"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:483
+msgid "Texas"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:496
+msgid "Wrapper"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:503
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:582
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:734
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:2009
+#: components/editor/elementor/widgets/pricing/pricing.php:557
+#: components/editor/elementor/widgets/pricing/pricing.php:794
+#: components/editor/elementor/widgets/pricing/pricing.php:1235
+#: components/editor/elementor/widgets/pricing/pricing.php:1335
+#: components/editor/elementor/widgets/pricing/pricing.php:1971
+#: components/editor/elementor/widgets/pricing/pricing.php:2162
+msgid "Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:523
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:621
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:797
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:869
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1353
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1638
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:2037
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:123
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:187
+#: components/editor/elementor/widgets/pricing/pricing.php:977
+#: components/editor/elementor/widgets/pricing/pricing.php:1014
+#: components/editor/elementor/widgets/pricing/pricing.php:1105
+#: components/editor/elementor/widgets/pricing/pricing.php:1160
+msgid "Border"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:530
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:629
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:887
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1761
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:2044
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:88
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:174
+#: components/editor/elementor/widgets/pricing/pricing.php:675
+#: components/editor/elementor/widgets/pricing/pricing.php:908
+#: components/editor/elementor/widgets/pricing/pricing.php:984
+#: components/editor/elementor/widgets/pricing/pricing.php:1021
+#: components/editor/elementor/widgets/pricing/pricing.php:1113
+#: components/editor/elementor/widgets/pricing/pricing.php:1170
+#: components/editor/elementor/widgets/pricing/pricing.php:1676
+#: components/editor/elementor/widgets/pricing/pricing.php:2275
+msgid "Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:542
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:641
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:822
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:877
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:2056
+#: components/editor/elementor/widgets/pricing/pricing.php:996
+#: components/editor/elementor/widgets/pricing/pricing.php:1033
+msgid "Box Shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:552
+msgid "Nav Wrapper  "
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:560
+msgid "Make Fluid"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:574
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:788
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:860
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1035
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1156
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1316
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1600
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1624
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1840
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1864
+#: components/editor/elementor/widgets/schedule/schedule.php:769
+#: components/editor/elementor/widgets/schedule/schedule.php:811
+#: components/editor/elementor/widgets/speaker/speaker.php:352
+msgid "Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:601
+#: components/editor/elementor/widgets/pricing/pricing.php:569
+#: components/editor/elementor/widgets/pricing/pricing.php:1353
+#: components/editor/elementor/widgets/pricing/pricing.php:1953
+msgid "Margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:650
+msgid "Nav Items  "
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:658
+#: components/editor/elementor/widgets/pricing/pricing.php:787
+#: components/editor/elementor/widgets/pricing/pricing.php:1373
+#: components/editor/elementor/widgets/pricing/pricing.php:2028
+#: components/editor/elementor/widgets/schedule/schedule.php:615
+#: components/editor/elementor/widgets/schedule/schedule.php:738
+#: components/editor/elementor/widgets/search/search.php:196
+msgid "Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:666
+#: components/editor/elementor/widgets/pricing/pricing.php:248
+#: components/editor/elementor/widgets/pricing/pricing.php:2035
+#: components/editor/elementor/widgets/search/search.php:51
+#: components/editor/elementor/widgets/speaker/speaker.php:434
+msgid "Icon Size"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:691
+msgid "Margin Right"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:713
+#: components/editor/elementor/widgets/pricing/pricing.php:946
+#: components/editor/elementor/widgets/pricing/pricing.php:1214
+msgid "Margin Bottom"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:757
+#: components/editor/elementor/widgets/pricing/pricing.php:513
+#: components/editor/elementor/widgets/pricing/pricing.php:621
+#: components/editor/elementor/widgets/pricing/pricing.php:750
+#: components/editor/elementor/widgets/pricing/pricing.php:847
+#: components/editor/elementor/widgets/pricing/pricing.php:970
+#: components/editor/elementor/widgets/pricing/pricing.php:1072
+#: components/editor/elementor/widgets/pricing/pricing.php:1530
+#: components/editor/elementor/widgets/pricing/pricing.php:1627
+#: components/editor/elementor/widgets/pricing/pricing.php:1781
+#: components/editor/elementor/widgets/pricing/pricing.php:2104
+#: components/editor/elementor/widgets/pricing/pricing.php:2214
+#: components/editor/elementor/widgets/pricing/pricing.php:2296
+#: components/editor/elementor/widgets/schedule/schedule.php:313
+#: components/editor/elementor/widgets/schedule/schedule.php:678
+#: components/editor/elementor/widgets/schedule/schedule.php:730
+#: components/editor/elementor/widgets/search/search.php:103
+#: components/editor/elementor/widgets/speaker/speaker.php:249
+#: components/editor/elementor/widgets/speaker/speaker.php:374
+msgid "Normal"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:763
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:837
+#: components/editor/elementor/widgets/pricing/pricing.php:519
+#: components/editor/elementor/widgets/schedule/schedule.php:747
+#: components/editor/elementor/widgets/schedule/schedule.php:788
+#: devmonsta/options/customizer.php:299 devmonsta/options/customizer.php:372
+#: devmonsta/options/customizer.php:431 devmonsta/options/customizer.php:498
+msgid "Title Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:775
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:848
+#: components/editor/elementor/widgets/pricing/pricing.php:235
+#: components/editor/elementor/widgets/schedule/schedule.php:140
+msgid "Icon Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:831
+#: components/editor/elementor/widgets/schedule/schedule.php:355
+#: components/editor/elementor/widgets/schedule/schedule.php:698
+#: components/editor/elementor/widgets/schedule/schedule.php:781
+#: core/libs/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:901
+msgid "First and Last Child Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:910
+msgid "First Child Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:922
+msgid "First Child Border Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:934
+msgid "Last Child Border Radius"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:946
+msgid "Last Child Border Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:962
+msgid "Caret  "
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:974
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1103
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1224
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1477
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1787
+#: components/editor/elementor/widgets/pricing/pricing.php:1312
+#: components/editor/elementor/widgets/pricing/pricing.php:1908
+msgid "Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1004
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1129
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1254
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1507
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1813
+msgid "Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1047
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1701
+msgid "Bottom Icon Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1284
+msgid "Bottom Line"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1340
+msgid "Hear Symbol Background"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1364
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1649
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1876
+msgid "Caret Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1390
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1675
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1902
+msgid "Caret Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1416
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1928
+msgid "Bottom Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1446
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1731
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1958
+msgid "Left Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1991
+msgid "Body"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:1998
+msgid "Body Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/advanced-tab/advanced-tab.php:2180
+msgid "No content added yet"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:19
+msgid "Boilerplate Back To Top"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:36
+msgid "back to top settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:59
+msgid "Button Normal"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:66
+msgid "Button color"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:79
+msgid "Backto BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:100
+#: components/editor/elementor/widgets/pricing/pricing.php:1192
+msgid "Size"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:111
+msgid "Line Height"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:131
+msgid "Button Padding"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:145
+msgid "Button Hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:152
+msgid "Backto Hover color"
+msgstr ""
+
+#: components/editor/elementor/widgets/back-to-top/back-to-top.php:165
+msgid "Backto Button Hover BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:14
+msgid "Boilerplate Pricing"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:30
+#: devmonsta/options/customizer.php:120
+msgid "Header"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:38
+#: components/editor/elementor/widgets/pricing/pricing.php:479
+msgid "Table Title"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:39
+msgid "Single day pass"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:46
+msgid "Title HTML Tag"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:66
+#: components/editor/elementor/widgets/pricing/pricing.php:704
+msgid "Table Subtitle"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:67
+msgid "$150"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:74
+msgid "Header Icon or Image? "
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:99
+#: components/editor/elementor/widgets/pricing/pricing.php:334
+msgid "Add icon? "
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:156
+#: components/editor/elementor/widgets/pricing/pricing.php:1281
+msgid "Price Tag"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:163
+msgid "Currency"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:170
+msgid "Price"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:171
+msgid "150"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:177
+msgid "Duration"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:184
+#: components/editor/elementor/widgets/pricing/pricing.php:1707
+msgid "Features"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:190
+msgid "Features style"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:194
+msgid "Paragraph"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:195
+msgid "List"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:203
+msgid "Table Content"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:205
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium, totam rem aperiam"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:215
+msgid "List text"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:273
+msgid "Pricing Content List"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:279
+msgid "One catered lunch"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:283
+msgid "Afternoon snacks"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:287
+msgid "Fun swag"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:291
+msgid "Entrance Afterparty"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:306
+#: components/editor/elementor/widgets/pricing/pricing.php:2019
+msgid "Button"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:312
+msgid "Label"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:314
+#: components/editor/elementor/widgets/pricing/pricing.php:315
+msgid "Purchase Ticket"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:322
+msgid "Link"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:362
+msgid "Icon Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:366
+#: components/editor/elementor/widgets/pricing/pricing.php:1475
+msgid "Before"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:367
+#: components/editor/elementor/widgets/pricing/pricing.php:1479
+msgid "After"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:406
+msgid "Class"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:408
+msgid "Class Name"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:415
+msgid "id"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:417
+msgid "ID"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:429
+msgid "Pricing Body"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:437
+#: components/editor/elementor/widgets/schedule/schedule.php:685
+#: components/editor/elementor/widgets/schedule/schedule.php:705
+msgid "Background Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:448
+#: components/editor/elementor/widgets/pricing/pricing.php:486
+#: components/editor/elementor/widgets/pricing/pricing.php:714
+#: components/editor/elementor/widgets/pricing/pricing.php:2070
+msgid "Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:531
+#: components/editor/elementor/widgets/pricing/pricing.php:648
+#: components/editor/elementor/widgets/pricing/pricing.php:768
+#: components/editor/elementor/widgets/pricing/pricing.php:873
+#: components/editor/elementor/widgets/pricing/pricing.php:1006
+#: components/editor/elementor/widgets/pricing/pricing.php:1127
+#: components/editor/elementor/widgets/pricing/pricing.php:1559
+#: components/editor/elementor/widgets/pricing/pricing.php:1647
+#: components/editor/elementor/widgets/pricing/pricing.php:1807
+#: components/editor/elementor/widgets/pricing/pricing.php:2132
+#: components/editor/elementor/widgets/pricing/pricing.php:2240
+#: components/editor/elementor/widgets/pricing/pricing.php:2313
+#: components/editor/elementor/widgets/search/search.php:122
+#: components/editor/elementor/widgets/speaker/speaker.php:294
+#: components/editor/elementor/widgets/speaker/speaker.php:403
+msgid "Hover"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:537
+#: components/editor/elementor/widgets/pricing/pricing.php:756
+#: components/editor/elementor/widgets/pricing/pricing.php:774
+#: components/editor/elementor/widgets/pricing/pricing.php:1079
+#: components/editor/elementor/widgets/pricing/pricing.php:1537
+#: components/editor/elementor/widgets/pricing/pricing.php:1566
+#: components/editor/elementor/widgets/pricing/pricing.php:1787
+#: components/editor/elementor/widgets/pricing/pricing.php:1813
+#: components/editor/elementor/widgets/pricing/pricing.php:1869
+#: components/editor/elementor/widgets/schedule/schedule.php:603
+#: components/editor/elementor/widgets/search/search.php:109
+#: components/editor/elementor/widgets/search/search.php:128
+msgid "Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:550
+msgid "Title Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:588
+#: components/editor/elementor/widgets/pricing/pricing.php:815
+#: components/editor/elementor/widgets/pricing/pricing.php:1598
+#: components/editor/elementor/widgets/pricing/pricing.php:2182
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:592
+#: components/editor/elementor/widgets/pricing/pricing.php:819
+#: components/editor/elementor/widgets/pricing/pricing.php:1602
+#: components/editor/elementor/widgets/pricing/pricing.php:2186
+msgctxt "Border Control"
+msgid "Solid"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:593
+#: components/editor/elementor/widgets/pricing/pricing.php:820
+#: components/editor/elementor/widgets/pricing/pricing.php:1603
+#: components/editor/elementor/widgets/pricing/pricing.php:2187
+msgctxt "Border Control"
+msgid "Double"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:594
+#: components/editor/elementor/widgets/pricing/pricing.php:821
+#: components/editor/elementor/widgets/pricing/pricing.php:1604
+#: components/editor/elementor/widgets/pricing/pricing.php:2188
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:595
+#: components/editor/elementor/widgets/pricing/pricing.php:822
+#: components/editor/elementor/widgets/pricing/pricing.php:1605
+#: components/editor/elementor/widgets/pricing/pricing.php:2189
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:596
+#: components/editor/elementor/widgets/pricing/pricing.php:823
+#: components/editor/elementor/widgets/pricing/pricing.php:1606
+#: components/editor/elementor/widgets/pricing/pricing.php:2190
+msgctxt "Border Control"
+msgid "Groove"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:606
+msgctxt "Border Control"
+msgid "Border Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:631
+#: components/editor/elementor/widgets/pricing/pricing.php:658
+#: components/editor/elementor/widgets/pricing/pricing.php:2224
+#: components/editor/elementor/widgets/pricing/pricing.php:2249
+msgctxt "Border Control"
+msgid "Border Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:833
+#: components/editor/elementor/widgets/pricing/pricing.php:1616
+#: components/editor/elementor/widgets/pricing/pricing.php:2200
+msgctxt "Border Control"
+msgid "Width"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:857
+#: components/editor/elementor/widgets/pricing/pricing.php:882
+#: components/editor/elementor/widgets/pricing/pricing.php:1634
+#: components/editor/elementor/widgets/pricing/pricing.php:1653
+msgctxt "Border Control"
+msgid "Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:935
+msgid "Header Image"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1041
+msgid "Animation"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1057
+msgid "Header Icon"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1092
+msgid "BG Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1134
+msgid "Primary Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1147
+msgid "Secondary Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1181
+msgid "Hover Animation"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1255
+msgid "Rotate"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1380
+msgid "Period Options"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1388
+msgid "Period Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1399
+msgid "Period Hover Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1412
+#: components/editor/elementor/widgets/pricing/pricing.php:1461
+msgid "Period Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1419
+#: components/editor/elementor/widgets/pricing/pricing.php:1489
+#: components/editor/elementor/widgets/schedule/schedule.php:623
+msgid "Vertical Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1428
+#: components/editor/elementor/widgets/pricing/pricing.php:1498
+msgid "Middle"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1451
+msgid "Currency Symbol Options"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1469
+msgid "Position"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1715
+msgid "Content Alignment"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1742
+msgid "List Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1750
+msgid "List Type"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1755
+msgid "Disc"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1756
+msgid "Number"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1757
+msgid "Alphabet"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1758
+msgid "Roman"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1835
+msgid "Divider"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1851
+msgid "Solid"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1852
+msgid "Double"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1853
+msgid "Dotted"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1854
+msgid "Dashed"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1884
+msgid "Weight"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1922
+msgid "List Gap"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:1992
+msgid "Spacing"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:2004
+msgid "Vertical Align"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:2059
+msgid "Width (%)"
+msgstr ""
+
+#: components/editor/elementor/widgets/pricing/pricing.php:2111
+#: components/editor/elementor/widgets/pricing/pricing.php:2139
+msgid "Text Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:13
+msgid "Boilerplate Schedule"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:28
+#: components/editor/elementor/widgets/speaker/speaker.php:30
+msgid "Query"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:35
+msgid "Schedule Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:40
+msgid "Schedule List"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:41
+msgid "Schedule Tab Vertical"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:42
+msgid "Schedule Tab Horizontal"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:43
+msgid "Schedule Tab Horizontal With Accordion"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:51
+msgid "Posts Day Count"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:62
+#: components/editor/elementor/widgets/speaker/speaker.php:154
+msgid "Posts Count"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:72
+#: components/editor/elementor/widgets/speaker/speaker.php:164
+msgid "Category"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:84
+#: components/editor/elementor/widgets/speaker/speaker.php:176
+msgid "Offset"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:95
+#: components/editor/elementor/widgets/speaker/speaker.php:187
+msgid "Order by"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:98
+#: components/editor/elementor/widgets/speaker/speaker.php:190
+msgid "Date"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:108
+#: components/editor/elementor/widgets/speaker/speaker.php:200
+msgid "Order"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:111
+#: components/editor/elementor/widgets/speaker/speaker.php:203
+msgid "ASC"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:112
+#: components/editor/elementor/widgets/speaker/speaker.php:204
+msgid "DESC"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:121
+msgid "Posts Speaker"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:133
+msgid "Boilerplate Schedule Info"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:150
+msgid "Icon active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:168
+msgid "Title shape color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:178
+msgid "Schedule title Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:187
+msgid "Schedule title active Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:205
+msgid "Schedule tilte margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:215
+msgid "Schedule sub title Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:225
+msgid "Sub title active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:242
+msgid "Schedule sub tilte margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:252
+msgid "Schedule place Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:263
+msgid "Schedule place active color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:280
+msgid "Location Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:292
+msgid "Location active Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:322
+msgid "Tab BG Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:333
+msgid "Schedule info box shadow"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:341
+msgid "Nav link shape color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:364
+msgid "Tab active BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:374
+msgid "Schedule info box shadow active"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:382
+msgid "Nav link active shape color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:397
+msgid "Boilerplate Schedule List"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:404
+msgid "Schedule list title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:421
+msgid "Tilte margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:433
+#: components/editor/elementor/widgets/speaker/speaker.php:228
+msgid "Description color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:450
+msgid "Description margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:462
+msgid "Meta color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:483
+msgid "Meta icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:505
+msgid "Schedule list meta margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:519
+msgid "Speaker color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:536
+msgid "Speaker degination color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:555
+msgid "Schedule list margin"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:571
+msgid "Boilerplate Schedule Additional"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:580
+msgid "Schedule row spacing"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:594
+msgid "Date Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:645
+msgid "Layout Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:654
+#: components/editor/elementor/widgets/schedule/schedule.php:758
+#: components/editor/elementor/widgets/speaker/speaker.php:391
+#: components/editor/elementor/widgets/speaker/speaker.php:420
+msgid "Border Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:665
+msgid "Icon section"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:718
+msgid "Tab Heading Bg section"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/schedule.php:799
+msgid "Active Border Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/style/schedule_horizontal_tab_with_accordion.php:34
+#: components/editor/elementor/widgets/schedule/style/schedule_list.php:50
+#: components/editor/elementor/widgets/schedule/style/schedule_tab_horizontal.php:34
+#: components/editor/elementor/widgets/schedule/style/schedule_tab_vertical.php:54
+msgid "No Schedule found"
+msgstr ""
+
+#: components/editor/elementor/widgets/schedule/style/schedule_horizontal_tab_with_accordion.php:60
+msgid "#"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:16
+msgid "Boilerplate Search"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:32
+msgid "Search settings"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:72
+msgid "Placeholder"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:74
+#: components/editor/elementor/widgets/search/search.php:75
+msgid "Search..."
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:84
+msgid "Style Section"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:91
+msgid "Icon color"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:142
+msgid "Input Setting"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:151
+msgid "Input Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:162
+msgid "Placeholder Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:175
+msgid "Focus Border Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/search/search.php:186
+msgid "Input Typography"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:15
+msgid "Boilerplate Speaker"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:37
+msgid "Speaker Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:42
+msgid "Style Box"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:43
+msgid "Style Round"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:44
+msgid "Style Round 2"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:45
+msgid "Style Round With Social"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:46
+msgid "Style Overlay"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:47
+msgid "Style Creative"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:48
+msgid "Simple Grid"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:55
+msgid "Column Per Row"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:67
+#: components/editor/elementor/widgets/speaker/speaker.php:74
+msgid "Desktop"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:77
+#: components/editor/elementor/widgets/speaker/speaker.php:100
+#: components/editor/elementor/widgets/speaker/speaker.php:121
+msgid "1"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:78
+#: components/editor/elementor/widgets/speaker/speaker.php:101
+#: components/editor/elementor/widgets/speaker/speaker.php:122
+msgid "2"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:79
+#: components/editor/elementor/widgets/speaker/speaker.php:102
+#: components/editor/elementor/widgets/speaker/speaker.php:123
+msgid "3"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:80
+#: components/editor/elementor/widgets/speaker/speaker.php:103
+#: components/editor/elementor/widgets/speaker/speaker.php:124
+msgid "4"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:112
+#: components/editor/elementor/widgets/speaker/speaker.php:118
+msgid "Mobile"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:143
+msgid "Social Limit"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:214
+msgid "boilerplate Speaker Style"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:255
+#: components/editor/elementor/widgets/speaker/speaker.php:300
+msgid "Speaker title color"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:266
+#: components/editor/elementor/widgets/speaker/speaker.php:312
+msgid "Social BG color"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:278
+#: components/editor/elementor/widgets/speaker/speaker.php:324
+msgid "Social color"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:342
+msgid "Hover Bg Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:361
+msgid "Social"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/speaker.php:380
+#: components/editor/elementor/widgets/speaker/speaker.php:409
+msgid " Color"
+msgstr ""
+
+#: components/editor/elementor/widgets/speaker/style/style_box.php:24
+#: template-parts/blog/category/parts/grid-content.php:16
+#: template-parts/blog/contents/content-speakers.php:16
+msgid "Read More"
+msgstr ""
+
+#: components/theme/manifest.php:7
+msgid "Boilerplate WordPress Theme"
+msgstr ""
+
+#: core/helpers/functions/global.php:224
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/helpers/functions/global.php:418
+msgid "Please select header"
+msgstr ""
+
+#: core/helpers/functions/global.php:439
+msgid "Please select footer"
+msgstr ""
+
+#: core/helpers/functions/template.php:22
+msgid "Previous post"
+msgstr ""
+
+#: core/helpers/functions/template.php:32
+msgid "Next post"
+msgstr ""
+
+#: core/helpers/functions/template.php:53
+msgid "Home"
+msgstr ""
+
+#: core/helpers/functions/template.php:89
+#: core/helpers/functions/template.php:93
+#: core/helpers/functions/template.php:102
+msgid "Blogs for"
+msgstr ""
+
+#: core/helpers/functions/template.php:106
+msgid "Author Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:109
+msgid "Blogs"
+msgstr ""
+
+#: core/helpers/functions/template.php:112
+msgid "Search Result"
+msgstr ""
+
+#: core/helpers/functions/template.php:115
+msgid "404 Not Found"
+msgstr ""
+
+#: core/helpers/functions/template.php:160
+msgid " Comments "
+msgstr ""
+
+#: core/helpers/functions/template.php:160
+msgid " Comment "
+msgstr ""
+
+#: core/helpers/functions/template.php:229
+msgid "says:"
+msgstr ""
+
+#: core/helpers/functions/template.php:233
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/helpers/functions/template.php:240
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/helpers/functions/template.php:243
+msgid "(Edit)"
+msgstr ""
+
+#: core/helpers/functions/template.php:269
+msgid "More pages: "
+msgstr ""
+
+#: core/helpers/functions/template.php:275
+msgid "Next "
+msgstr ""
+
+#: core/helpers/functions/template.php:276
+msgid " Previous"
+msgstr ""
+
+#: core/hooks/blog.php:32
+msgid "Search"
+msgstr ""
+
+#: core/hooks/widget-areas.php:11
+msgid "Blog widget area"
+msgstr ""
+
+#: core/hooks/widget-areas.php:13
+msgid "Appears on posts."
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:9
+msgid "Elementor"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:14
+msgid "Elementskit Lite"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:19
+msgid "Metform"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:24
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:29
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:36
+msgid "Devmonsta"
+msgstr ""
+
+#: core/installation-fragments/tgmpa-plugins.php:41
+msgid "Boilerplate Essential"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: core/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:393
+#: core/libs/class-tgm-plugin-activation.php:912
+#: core/libs/class-tgm-plugin-activation.php:2618
+#: core/libs/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:394
+#: core/libs/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:395
+#: core/libs/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: core/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1019
+#: core/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:1206
+#: core/libs/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: core/libs/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: core/libs/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: core/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/libs/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: core/libs/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: core/libs/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3594
+#: core/libs/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3594
+#: core/libs/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: core/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: core/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: devmonsta/options/customizer.php:19
+msgid "Theme settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:20
+msgid "Theme options panel"
+msgstr ""
+
+#: devmonsta/options/customizer.php:29
+msgid "Optional Settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:38
+msgid "Main Logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:39
+msgid ""
+"This is default logo. Our most of the menu built with elemnetsKit header "
+"builder. Go to header settings->Header builder enable->  and click \"edit "
+"header content\" to change the logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:46
+msgid "Footer Logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:47
+msgid ""
+"This is default footer logo. Our most of the menu built with elemnetsKit "
+"footer builder. Go to footer settings->Footer builder enable->  and click "
+"\"edit footer content\" to change the logo"
+msgstr ""
+
+#: devmonsta/options/customizer.php:58
+msgid "Enable Grid Line Animation?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:59
+msgid "Do you want to enable grid line animation ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:76
+msgid "Enable Cursor Follower?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:77
+msgid "Do you want to enable cursor follower?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:92
+msgid "Header Settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:104
+msgid "Header builder Enable ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:105
+msgid "Do you want to enable n in header ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:137 devmonsta/options/customizer.php:830
+msgid "How to edit header"
+msgstr ""
+
+#: devmonsta/options/customizer.php:152
+msgid "Sticky header"
+msgstr ""
+
+#: devmonsta/options/customizer.php:153
+msgid "Do you want to enable sticky nav?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:167
+msgid "Search button show"
+msgstr ""
+
+#: devmonsta/options/customizer.php:168
+msgid "Do you want to show search button in header?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:182
+msgid "Show Quote button"
+msgstr ""
+
+#: devmonsta/options/customizer.php:195
+msgid "Quote text"
+msgstr ""
+
+#: devmonsta/options/customizer.php:196
+msgid "Navigation quote text."
+msgstr ""
+
+#: devmonsta/options/customizer.php:197
+#: template-parts/headers/header-content.php:19
+msgid "Get a quote"
+msgstr ""
+
+#: devmonsta/options/customizer.php:211
+msgid "Quote link"
+msgstr ""
+
+#: devmonsta/options/customizer.php:212
+msgid "Navigation quote link."
+msgstr ""
+
+#: devmonsta/options/customizer.php:231
+msgid "Banner settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:241
+msgid "Page banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:254 devmonsta/options/customizer.php:327
+#: devmonsta/options/customizer.php:400 devmonsta/options/customizer.php:459
+#: devmonsta/options/posts/page.php:24
+msgid "Show banner?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:255 devmonsta/options/customizer.php:328
+#: devmonsta/options/customizer.php:401 devmonsta/options/customizer.php:460
+#: devmonsta/options/posts/page.php:25
+msgid "Show or hide the banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:269 devmonsta/options/customizer.php:342
+#: devmonsta/options/customizer.php:415 devmonsta/options/customizer.php:474
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:270 devmonsta/options/customizer.php:343
+#: devmonsta/options/customizer.php:416 devmonsta/options/customizer.php:475
+msgid "Show or hide the Breadcrumb"
+msgstr ""
+
+#: devmonsta/options/customizer.php:283 devmonsta/options/customizer.php:357
+#: devmonsta/options/posts/page.php:54
+msgid "Banner Title"
+msgstr ""
+
+#: devmonsta/options/customizer.php:290 devmonsta/options/customizer.php:363
+#: devmonsta/options/posts/page.php:62
+msgid "Banner Sub Title"
+msgstr ""
+
+#: devmonsta/options/customizer.php:306 devmonsta/options/customizer.php:379
+#: devmonsta/options/customizer.php:438 devmonsta/options/customizer.php:505
+msgid "Banner Background"
+msgstr ""
+
+#: devmonsta/options/customizer.php:315
+msgid "Blog banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:356
+msgid "Blog"
+msgstr ""
+
+#: devmonsta/options/customizer.php:388
+msgid "Blog single banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:447
+msgid "Speaker banner"
+msgstr ""
+
+#: devmonsta/options/customizer.php:488
+msgid "Speaker"
+msgstr ""
+
+#: devmonsta/options/customizer.php:489
+msgid "Speaker Single Banner Title"
+msgstr ""
+
+#: devmonsta/options/customizer.php:513
+msgid "Style settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:523
+msgid "Body background"
+msgstr ""
+
+#: devmonsta/options/customizer.php:534
+msgid "Primary color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:545
+msgid "Secondary color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:574
+msgid "Body Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:597
+msgid "Heading H1 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:620
+msgid "Heading H2 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:643
+msgid "Heading H3 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:666
+msgid "Heading H4 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:689
+msgid "Heading H5 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:712
+msgid "Heading H6 Typhography"
+msgstr ""
+
+#: devmonsta/options/customizer.php:721
+msgid "Blog settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:733
+msgid "Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:736
+msgid "No sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:737
+msgid "Left Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:738
+msgid "Right Sidebar"
+msgstr ""
+
+#: devmonsta/options/customizer.php:746
+msgid "Blog author"
+msgstr ""
+
+#: devmonsta/options/customizer.php:747
+msgid "Do you want to show blog author?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:761
+msgid "Blog related post"
+msgstr ""
+
+#: devmonsta/options/customizer.php:762
+msgid "Do you want to show single blog related post?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:775
+msgid "Related post count"
+msgstr ""
+
+#: devmonsta/options/customizer.php:786
+msgid "Footer settings"
+msgstr ""
+
+#: devmonsta/options/customizer.php:798
+msgid "Footer builder Enable ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:799
+msgid "Do you want to enable footer builder ?"
+msgstr ""
+
+#: devmonsta/options/customizer.php:814
+msgid "Footer"
+msgstr ""
+
+#: devmonsta/options/customizer.php:846
+msgid "Background color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:850
+msgid "Footer background color of rgba-color-picker goes here"
+msgstr ""
+
+#: devmonsta/options/customizer.php:858
+msgid "Text color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:862
+msgid "You can change the text color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:870
+msgid "Link Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:874
+msgid "You can change the link color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:882
+msgid "Widget Title Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:886
+msgid "You can change the widget title color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:894
+msgid "Copyright Background Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:898
+msgid ""
+"You can change the copyright background color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:907
+msgid "Copyright Text Color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:911
+msgid "You can change the copyright tet color with rgba color or solid color"
+msgstr ""
+
+#: devmonsta/options/customizer.php:921
+msgid "&copy; 2020, Boilerplate. All rights reserved"
+msgstr ""
+
+#: devmonsta/options/customizer.php:922
+msgid "Copyright text"
+msgstr ""
+
+#: devmonsta/options/customizer.php:923
+msgid "This text will be shown at the footer of all pages."
+msgstr ""
+
+#: devmonsta/options/customizer.php:931
+msgid "Footer Padding Top"
+msgstr ""
+
+#: devmonsta/options/customizer.php:932
+msgid "Use Footer Padding Top"
+msgstr ""
+
+#: devmonsta/options/customizer.php:943
+msgid "Footer Padding Bottom"
+msgstr ""
+
+#: devmonsta/options/customizer.php:944
+msgid "Use Footer Padding Bottom"
+msgstr ""
+
+#: devmonsta/options/customizer.php:957
+msgid "Back to top"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:39
+msgid "Show Breadcumb?"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:40
+msgid "Show or hide the breadcumb"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:53
+msgid "Add your Page hero title"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:61
+msgid "Add your Page hero sub title"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:69
+msgid "Upload a page header image"
+msgstr ""
+
+#: devmonsta/options/posts/page.php:70
+msgid "Banner image"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:25
+msgid "Video URL"
+msgstr ""
+
+#: devmonsta/options/posts/post.php:26
+msgid ""
+"Paste a video link from Youtube, Vimeo, Dailymotion, Facebook or Twitter it "
+"will be embedded in the post and the thumb used as the featured image of "
+"this post. You need to choose \"Video Format\" as post format to use "
+"\"Featured Video\"."
+msgstr ""
+
+#: functions.php:81
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:82
+msgid "Footer Menu"
+msgstr ""
+
+#: page.php:34 single-xs-speaker.php:27
+#: template-parts/blog/contents/content-single.php:38
+msgid "Edit"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/blog/category/parts/feature/feature-post.php:34
+msgid "Feature post"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:2
+msgid "Nothing found!"
+msgstr ""
+
+#: template-parts/blog/contents/content-none.php:3
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: template-parts/blog/contents/content-page.php:16
+#: template-parts/blog/contents/content-single.php:27
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: template-parts/blog/contents/content-single-speaker.php:94
+msgid "All Sessions by "
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:31
+msgid "Personal Details"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:34
+msgid "Speaker Name"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:39
+msgid "Speaker Position"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:45
+msgid "Experience"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:53
+msgid "Company & Info"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:57
+msgid "Company Name"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:64
+msgid "Profession"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:71
+msgid "Speaker Email"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:87
+msgid "Social Media"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:109
+msgid "session"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:110
+msgid "#Thought leadership"
+msgstr ""
+
+#: template-parts/blog/contents/content-snigle-speaker-backup.php:111
+msgid "Sessions by "
+msgstr ""
+
+#: template-parts/blog/contents/content-style2.php:10
+#: template-parts/blog/contents/content-style2.php:26
+#: template-parts/blog/contents/format/standard-gallery.php:6
+#: template-parts/blog/contents/format/standard-image.php:8
+#: template-parts/blog/contents/format/standard-image.php:24
+#: template-parts/blog/contents/format/standard-quote.php:9
+#: template-parts/blog/contents/format/standard-video.php:6
+#: template-parts/blog/contents/format/standard.php:8
+#: template-parts/blog/contents/format/standard.php:24
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-author.php:34
+msgid "Super Admin"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-related-post.php:13
+msgid "Releated Posts"
+msgstr ""
+
+#: template-parts/blog/post-parts/part-tags.php:8
+msgid "Tags: "
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeforest.net/user/xpeedstudio/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Boilerplate - Modern Event WordPress Theme.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Xpeedstudio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xpeedstudio.com/"
+msgstr ""
